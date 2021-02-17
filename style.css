@@ -1,0 +1,32 @@
+.container{
+    height: 100px;
+    width: 650px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    border: rgb(12, 144, 196) 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+p{
+    display: flex;
+    background: rgb(12, 144, 196);
+    height: 50px;
+    width: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    justify-content: space-evenly;
+    
+}
+.first{
+    margin-left: 0px;
+}
+#orange{
+    background: tomato;
+}
+.purple{
+    background: rgb(92, 46, 92);
+}
